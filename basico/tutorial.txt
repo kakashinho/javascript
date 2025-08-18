@@ -1,0 +1,6 @@
+Iniciando o node js
+npm init -y
+
+Executando o Programa:
+node index.js
+node .
